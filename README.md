@@ -6,9 +6,6 @@ IntelliRAG is a Retrieval-Augmented Generation (RAG) application that allows use
 
 The application processes the selected source, splits its content into chunks, generates semantic embeddings, stores them in a vector database, and retrieves relevant context to generate grounded answers.
 
-🌐 **Live Demo:**  
-https://intellirag-rag.streamlit.app/
-
 ---
  
 ## ✨ Features
