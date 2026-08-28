@@ -358,7 +358,7 @@ IntelliRAG can be used for:
 
 ## 👩‍💻 Author
 
-**Pranavi Jain**
+**Anshul Kumar Gupta**
 
 Computer Science & Engineering Student
 
